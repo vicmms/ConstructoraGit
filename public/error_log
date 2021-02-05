@@ -1,0 +1,136 @@
+[27-Oct-2020 10:18:14 America/Mexico_City] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Oct-2020 10:18:14 America/Mexico_City] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Oct-2020 10:18:14 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/pitodepe/Desarrollo/prueba/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[27-Oct-2020 10:19:48 America/Mexico_City] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Oct-2020 10:19:48 America/Mexico_City] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Oct-2020 10:19:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/pitodepe/Desarrollo/prueba/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[27-Oct-2020 10:23:13 America/Mexico_City] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Oct-2020 10:23:13 America/Mexico_City] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Oct-2020 10:23:13 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/pitodepe/Desarrollo/prueba/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[27-Oct-2020 10:23:22 America/Mexico_City] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Oct-2020 10:23:22 America/Mexico_City] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Oct-2020 10:23:22 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/pitodepe/Desarrollo/prueba/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[27-Oct-2020 10:27:06 America/Mexico_City] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Oct-2020 10:27:06 America/Mexico_City] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Oct-2020 10:27:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/pitodepe/Desarrollo/prueba/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[27-Oct-2020 10:27:18 America/Mexico_City] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Oct-2020 10:27:18 America/Mexico_City] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Oct-2020 10:27:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/pitodepe/Desarrollo/prueba/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[09-Dec-2020 22:01:22 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:8
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(8): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/h...', '/home4/const237...', 8, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(8): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/desarr in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 8
+[09-Dec-2020 22:01:22 UTC] PHP Fatal error:  main(): Failed opening required '/home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 8
+[09-Dec-2020 22:02:31 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:8
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(8): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/h...', '/home4/const237...', 8, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(8): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/desarr in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 8
+[09-Dec-2020 22:02:31 UTC] PHP Fatal error:  main(): Failed opening required '/home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 8
+[09-Dec-2020 22:21:27 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:4
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/h...', '/home4/const237...', 4, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/desarr in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:21:27 UTC] PHP Fatal error:  main(): Failed opening required '/home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:24:04 UTC] PHP Warning:  Uncaught ErrorException: require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:4
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/v...', '/home4/const237...', 4, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/desarrollo/constructora/vendor/laravel/framework/src/Illuminate/Co in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:24:04 UTC] PHP Fatal error:  main(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:24:30 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home4/const237/desarrollo/constructora/app/Http/Controllers../../vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:4
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/h...', '/home4/const237...', 4, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/d in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:24:30 UTC] PHP Fatal error:  main(): Failed opening required '/home4/const237/desarrollo/constructora/app/Http/Controllers../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:26:27 UTC] PHP Warning:  Uncaught ErrorException: require_once(../../vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:4
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(.....', '/home4/const237...', 4, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/desarrollo/constructora/vendor/laravel/framework/src/Illumina in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:26:27 UTC] PHP Fatal error:  main(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:28:17 UTC] PHP Warning:  Uncaught ErrorException: require_once(../home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:4
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(.....', '/home4/const237...', 4, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/desa in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:28:17 UTC] PHP Fatal error:  main(): Failed opening required '../home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:28:33 UTC] PHP Warning:  Uncaught ErrorException: require_once(..//home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:4
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(.....', '/home4/const237...', 4, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/des in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:28:33 UTC] PHP Fatal error:  main(): Failed opening required '..//home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:29:09 UTC] PHP Warning:  Uncaught ErrorException: require_once(..//home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:4
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(.....', '/home4/const237...', 4, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/des in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:29:09 UTC] PHP Fatal error:  main(): Failed opening required '..//home4/const237/desarrollo/constructora/app/Http/Controllers/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:29:23 UTC] PHP Warning:  Uncaught ErrorException: require_once(home4/const237/desarrollo/constructora/vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:4
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(ho...', '/home4/const237...', 4, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/desarrollo/constructora/vend in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:29:23 UTC] PHP Fatal error:  main(): Failed opening required 'home4/const237/desarrollo/constructora/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:30:38 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home4/const237/desarrollo/constructora/app/Http/Controllers/../vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php:4
+Stack trace:
+#0 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/h...', '/home4/const237...', 4, Array)
+#1 /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php(4): require_once()
+#2 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(444): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home4/const237...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home4/const237/des in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[09-Dec-2020 22:30:38 UTC] PHP Fatal error:  main(): Failed opening required '/home4/const237/desarrollo/constructora/app/Http/Controllers/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora/app/Http/Controllers/CotizacionesController.php on line 4
+[10-Dec-2020 17:33:26 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home4/const237/desarrollo/constructora2/storage/framework/views/vendor/autoload.php): failed to open stream: No such file or directory in /home4/const237/desarrollo/constructora2/storage/framework/views/2c8fe14a88d8b14ba17bc7b4001a60f1ead371c1.php:2
+Stack trace:
+#0 /home4/const237/desarrollo/constructora2/storage/framework/views/2c8fe14a88d8b14ba17bc7b4001a60f1ead371c1.php(2): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/h...', '/home4/const237...', 2, Array)
+#1 /home4/const237/desarrollo/constructora2/storage/framework/views/2c8fe14a88d8b14ba17bc7b4001a60f1ead371c1.php(2): require_once()
+#2 /home4/const237/desarrollo/constructora2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(41): include('/home4/const237...')
+#3 /home4/const237/desarrollo/constructora2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home4/const237...', Array)
+#4 /home4/ in /home4/const237/desarrollo/constructora2/storage/framework/views/2c8fe14a88d8b14ba17bc7b4001a60f1ead371c1.php on line 2
+[10-Dec-2020 17:33:26 UTC] PHP Fatal error:  Illuminate\View\Engines\PhpEngine::main(): Failed opening required '/home4/const237/desarrollo/constructora2/storage/framework/views/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/const237/desarrollo/constructora2/storage/framework/views/2c8fe14a88d8b14ba17bc7b4001a60f1ead371c1.php on line 2
